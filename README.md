@@ -4,7 +4,9 @@
 - 🔭 I’m currently working on AI, especially NLP, and Information Retrieval.
 - 🌱 I’m currently learning AI, Data Science, and Statistics with finance & business backgrounds.
 - 👯 I’m looking to collaborate on AI/Data Science projects and start-up teams. 
-- 📫 How to reach me: alfhsenglishkimyumin@gmial.com
+- 📫 How to reach me: 
+-   - alfhsenglishkimyumin@gmial.com
+-   - kimym7801@cau.ac.kr
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-billie)](https://github.com/anuraghazra/github-readme-stats)
 
