@@ -5,8 +5,8 @@
 - 🌱 I’m learning AI, Data Science, and Statistics with finance & business backgrounds.
 - 👯 I’m always looking to collaborate on AI/Data Science projects.
 - 📫 How to reach me: 
-     - [Gmail] alfhsenglishkimyumin@gmail.com
      - [School] kimym7801@cau.ac.kr
+     - [Gmail] alfhsenglishkimyumin@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-billie)](https://github.com/anuraghazra/github-readme-stats)
 
