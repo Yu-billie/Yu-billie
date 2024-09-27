@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m working on AI, especially NLP, LLM and Retrieval.
-- 🌱 I’m learning AI, Data Science, and Statistics with finance & business backgrounds.
+- 🌱 I’m learning AI and Statistics with finance & business backgrounds.
 - 👯 I’m always looking to collaborate on AI/Data Science projects.
 - 📫 How to reach me: 
      - [School] kimym7801@cau.ac.kr
