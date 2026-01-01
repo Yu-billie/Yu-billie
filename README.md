@@ -14,7 +14,7 @@
 
 # 👋 안녕하세요, 김유민 (Billie)입니다!
 
-중앙대학교에서 **응용통계학**과 **소프트웨어·인문융합**을 전공하고 있는 학부 연구생이자 소프트웨어 엔지니어입니다.
+중앙대학교에서 **응용통계학**과 **소프트웨어·인문융합**을 전공하고 있는 인공지능 연구원이자 데이터 엔지니어입니다.
 
 현재 **Language Intelligence Lab**에서 학부 연구생으로 활동하고 있으며, 주로 **Responsible AI**, **LLM Safety & Security**, **Bias Mitigation** 분야를 연구하고 있습니다. 최신 AI 연구와 견고한 엔지니어링 시스템 간의 간극을 좁히는 것에 관심이 많습니다.
 
@@ -76,12 +76,16 @@
 | :--- | :--- | :--- |
 | **AgentBeats (UC Berkeley RDI)** | LLM 에이전트의 안전성(Safety) 평가 벤치마크 개발. 아부성(Sycophancy), 견고성, 오류 수정 능력 등을 측정하는 평가지표 로직 구현 및 테스트 자동화. | `Python` `LLM Agents` |
 
-### 📊 Data Analysis & Quant
+### 📊 Data Analysis (for Manufacturing Industry)
+| 프로젝트 | 설명 | 기술 스택 |
+| :--- | :--- | :--- |
+| **Smart Factory Anomaly Detection** | **[LG AI Research 해커톤]** 제조 공정 로그 데이터를 활용한 이상 탐지(Anomaly Detection) 모델 개발 및 불량률 최소화를 위한 데이터 분석 (Top 13/34). | `Python` `SQL` `Scikit-learn` |
+
+### 📊 Data Analysis (for Investment/Quant)
 | 프로젝트 | 설명 | 기술 스택 |
 | :--- | :--- | :--- |
 | **Portfolio Optimization** | GICS 섹터 기반의 주식 포트폴리오 최적화(Efficient Frontier, Sharpe Ratio) 모델링 및 리스크 분산 시뮬레이션 구현. 데이터 기반 투자 의사결정 지원 시스템 프로토타입 개발. | `Python` `Pandas` `PyPortfolioOpt` |
 | **Financial Domain Analytics** | 증권 분석을 위한 시계열 데이터 전처리(SQL/Python) 및 기업 공시 사업보고서(비정형 데이터) NLP 분석을 통한 펀더멘털 리서치 지표 추출. | `Python` `SQL` `NLP` |
-| **Smart Factory Anomaly Detection** | **[LG AI Research 해커톤]** 제조 공정 로그 데이터를 활용한 이상 탐지(Anomaly Detection) 모델 개발 및 불량률 최소화를 위한 데이터 분석 (Top 13/34). | `Python` `SQL` `Scikit-learn` |
 
 ---
 
