@@ -27,6 +27,13 @@
 
 ---
 
+## 🏆 Awards & Honors
+* **LG AI Research Hackathon:** 13위 (스마트 팩토리 이상 탐지 알고리즘 최적화)
+* **인문100년장학금:** 한국장학재단 (2년 전액 등록금 지원) (3-4학년)
+* **중앙대학교 입학장학금:** 특성화학과 우수입학 (2년 전액 등록금 지원) (1-2학년)
+
+---
+
 ## 🔭 Current Project (1)
 
 ### 💊 알츠하이머 신약 개발을 위한 End-to-End AI 에이전트 연구개발 (한국과학기술정보통신부)
@@ -142,11 +149,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ---
-
-## 🏆 Awards & Honors
-* **LG AI Research Hackathon:** 13위 (스마트 팩토리 이상 탐지 알고리즘 최적화)
-* **인문100년장학금:** 한국장학재단 (2년 전액 등록금 지원) (3-4학년)
-* **중앙대학교 입학장학금:** 특성화학과 우수입학 (2년 전액 등록금 지원) (1-2학년)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yu-billie&show_icons=true&theme=minimal" alt="Yumin's GitHub Stats" />
