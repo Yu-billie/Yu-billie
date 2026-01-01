@@ -76,7 +76,7 @@
 | :--- | :--- | :--- |
 | **AgentBeats (UC Berkeley RDI)** | LLM 에이전트의 안전성(Safety) 평가 벤치마크 개발. 아부성(Sycophancy), 견고성, 오류 수정 능력 등을 측정하는 평가지표 로직 구현 및 테스트 자동화. | `Python` `LLM Agents` |
 
-### 📊 Data Analysis (for Manufacturing Industry)
+### 📊 Data Science (for Manufacturing Industry)
 | 프로젝트 | 설명 | 기술 스택 |
 | :--- | :--- | :--- |
 | **Smart Factory Anomaly Detection** | **[LG AI Research 해커톤]** 제조 공정 로그 데이터를 활용한 이상 탐지(Anomaly Detection) 모델 개발 및 불량률 최소화를 위한 데이터 분석 (Top 13/34). | `Python` `SQL` `Scikit-learn` |
