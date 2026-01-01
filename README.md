@@ -4,8 +4,9 @@
 - 🔭 I’m working on AI, especially NLP, LLM and Retrieval.
 - 🌱 I’m learning AI and Statistics with finance & business backgrounds.
 - 👯 I’m always looking to collaborate on AI/Data Science projects.
-- 📫 How to reach me: 
-     - [School] kimym7801@cau.ac.kr
+- 📫 How to reach me:
+     - [LinkedIn] [https://www.linkedin.com/in/yumin-kim-05a371191/](https://www.linkedin.com/in/yumin-kim-05a371191/)
+     - [Work Mail] kimym7801@cau.ac.kr
      - [Gmail] alfhsenglishkimyumin@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-billie)](https://github.com/anuraghazra/github-readme-stats)
