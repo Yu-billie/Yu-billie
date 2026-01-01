@@ -81,7 +81,7 @@
 | :--- | :--- | :--- |
 | **Smart Factory Anomaly Detection** | **[LG AI Research 해커톤]** 제조 공정 로그 데이터를 활용한 이상 탐지(Anomaly Detection) 모델 개발 및 불량률 최소화를 위한 데이터 분석 (Top 13/34). | `Python` `SQL` `Scikit-learn` |
 
-### 📊 Data Analysis (for Investment/Quant)
+### 💰 Data Analysis (for Investment/Quant)
 | 프로젝트 | 설명 | 기술 스택 |
 | :--- | :--- | :--- |
 | **Portfolio Optimization** | GICS 섹터 기반의 주식 포트폴리오 최적화(Efficient Frontier, Sharpe Ratio) 모델링 및 리스크 분산 시뮬레이션 구현. 데이터 기반 투자 의사결정 지원 시스템 프로토타입 개발. | `Python` `Pandas` `PyPortfolioOpt` |
