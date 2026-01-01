@@ -34,8 +34,10 @@
 
 ---
 
-### 🚀 Current Project
-> **개인화된 맞춤형 증권투자 포트폴리오 운용 설명가능한 대화형 인공지능 시뮬레이션/추천시스템**
+## 🔭 Current Project
+### 🚀 개인화된 맞춤형 증권투자 포트폴리오 운용 설명가능한 대화형 인공지능 시뮬레이션/추천시스템
+> **Explainable Conversational AI for Personalized Portfolio Management**
+> **Interactive AI Simulation & Recommender System for Tailored Investments**
 
 사용자 맞춤형 포트폴리오를 구성하고 운용하며, 의사결정 과정을 설명할 수 있는 대화형 AI 에이전트 및 추천 시스템을 개발하고 있습니다.
 
