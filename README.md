@@ -27,8 +27,7 @@
 
 ## 🔭 Current Project (1)
 
-### 💊 알츠하이머 신약 개발을 위한 End-to-End AI 에이전트 연구개발
-<p align="right"><em>한국과학기술정보통신부</p>
+### 💊 알츠하이머 신약 개발을 위한 End-to-End AI 에이전트 연구개발 (한국과학기술정보통신부)
      
 > **Developing an End-to-End AI Agent for Alzheimer's Drug Discovery**
 
@@ -38,8 +37,7 @@
 
 ## 🔭 Current Project (2)
 
-### 🚀 개인화된 맞춤형 증권투자 포트폴리오 운용을 위한 설명가능한 대화형 인공지능 시뮬레이션/추천시스템 프로덕트 개발
-<p align="right"><em>한화생명</p>
+### 🚀 개인화된 맞춤형 증권투자 포트폴리오 운용을 위한 설명가능한 대화형 인공지능 시뮬레이션/추천시스템 프로덕트 개발 (한화생명)
      
 > **Explainable Conversational AI for Personalized Portfolio Management (Interactive AI Simulation & Recommender System for Tailored Investments)**
 
