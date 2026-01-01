@@ -47,7 +47,7 @@
 
 ## 📚 Selected Publications
 
-* **[EMNLP 2025] Keep Security! Benchmarking Security Policy Preservation in LLM Contexts Against Indirect Attacks**
+* **[EMNLP 2025 Main] Keep Security! Benchmarking Security Policy Preservation in LLM Contexts Against Indirect Attacks**
     * *Yumin Kim\*, Hwan Chang\*, YongHyeon Jun, Hwanhee Lee*
     * 간접적인 프롬프트 주입 공격(Indirect Prompt Injection) 상황에서 LLM이 보안 정책을 얼마나 잘 준수하는지 평가하는 벤치마크를 제안했습니다.
 
