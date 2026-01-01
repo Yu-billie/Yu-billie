@@ -48,32 +48,7 @@
 * **[Preprint] Selective Demonstration Retrieval for Improved Implicit Hate Speech Detection**
     * *Yumin Kim, Hwanhee Lee* (Under Review for LREC 2026)
 
----
 
-## 🛠 Engineering Projects
-
-### 🛡️ 보안 및 자동화 (Security & Automation)
-| 프로젝트 | 설명 | 기술 스택 |
-| :--- | :--- | :--- |
-| **OWASP 기반 보안 자동화 플랫폼** | OWASP Top 10 기반의 파일 업로드/다운로드 취약점 연구 및 자동화 테스트 플랫폼 개발 | `Python` `Docker` `OWASP` |
-| **보안 취약점 자동 감지** | Trivy를 활용한 GitHub 코드 스캐닝 및 Slack 알림 자동화 시스템 구축 | `Docker` `Spring Boot` `Trivy` |
-| **VPN Tunneling Network** | IPSec 기반의 VPN 터널링을 통한 보안 네트워크 인프라 구축 | `VPN` `IPSec` |
-| **시스템 자동화** | Docker와 Crontab을 활용한 MySQL 백업/복구 및 PC 관리 자동화 스크립트 작성 | `Docker` `Crontab` `Shell` |
-
-### 📈 모니터링 및 성능 최적화 (Monitoring & Performance)
-| 프로젝트 | 설명 | 기술 스택 |
-| :--- | :--- | :--- |
-| **실시간 시스템 모니터링** | EDA(이벤트 기반 아키텍처)를 적용한 실시간 시스템 모니터링 대시보드 구축 | `ELK Stack` `Stress-ng` |
-| **EFK 기반 로그 모니터링** | Kubernetes 환경에서 ArgoCD와 EFK Stack을 활용한 로그 수집 및 분석 자동화 | `EFK` `ArgoCD` `K8s` |
-| **대규모 트래픽 부하 테스트** | JMeter와 Grafana를 연동하여 대규모 트래픽 환경에서의 시스템 성능 분석 및 검증 | `JMeter` `Grafana` `AWS` |
-| **대규모 데이터 파이프라인** | Elasticsearch를 기반으로 한 대용량 데이터 파이프라인 구축 및 시각화 | `MySQL` `ELK Stack` |
-
-### 🖥️ 서버 및 애플리케이션 (Server & Application)
-| 프로젝트 | 설명 | 기술 스택 |
-| :--- | :--- | :--- |
-| **스마트 부동산 플랫폼** | 블록체인 기반의 부동산 거래 자동화 및 실시간 채팅 서비스 개발 | `Solidity` `Kafka` `WebSocket` |
-| **실시간 채팅 서버** | Docker Multi-stage build로 최적화된 WebSocket 기반 채팅 서버 구현 | `Spring WebSocket` `Docker` |
-| **FISA 커뮤니티 플랫폼** | 학생들을 위한 풀스택 커뮤니티 서비스 플랫폼 개발 | `Spring Boot` `React` `AWS` |
 
 ---
 
