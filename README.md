@@ -1,4 +1,4 @@
-# Hi there, I'm Yumin👋
+# 👋 Hi there, I'm Yumin!
 
 
 - 🔭 I’m working on AI (especially NLP, LLM, AI Safety, and Retrieval) with Applied Statistics & Finance/Business backgrounds.
@@ -10,7 +10,7 @@
      - [Gmail] alfhsenglishkimyumin@gmail.com
 
 
-# 안녕하세요, 김유민 (Billie)입니다 👋
+# 👋 안녕하세요, 김유민 (Billie)입니다!
 
 [cite_start]중앙대학교에서 **응용통계학**과 **소프트웨어·인문융합**을 전공하고 있는 학부 연구생이자 소프트웨어 엔지니어입니다. [cite: 2, 11]
 
