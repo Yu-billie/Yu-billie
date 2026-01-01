@@ -9,6 +9,7 @@
      - [Work Mail] kimym7801@cau.ac.kr
      - [Gmail] alfhsenglishkimyumin@gmail.com
 
+---
 
 # 👋 안녕하세요, 김유민 (Billie)입니다!
 
