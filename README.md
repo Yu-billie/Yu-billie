@@ -13,13 +13,13 @@
 
 # 👋 안녕하세요, 김유민 (Billie)입니다!
 
-[cite_start]중앙대학교에서 **응용통계학**과 **소프트웨어·인문융합**을 전공하고 있는 학부 연구생이자 소프트웨어 엔지니어입니다. [cite: 2, 11]
+중앙대학교에서 **응용통계학**과 **소프트웨어·인문융합**을 전공하고 있는 학부 연구생이자 소프트웨어 엔지니어입니다.
 
-[cite_start]현재 **Language Intelligence Lab**에서 학부 연구생으로 활동하고 있으며, 주로 **Responsible AI**, **LLM Safety & Security**, **Bias Mitigation** 분야를 연구하고 있습니다. [cite: 4, 12] 최신 AI 연구와 견고한 엔지니어링 시스템 간의 간극을 좁히는 것에 관심이 많습니다.
+현재 **Language Intelligence Lab**에서 학부 연구생으로 활동하고 있으며, 주로 **Responsible AI**, **LLM Safety & Security**, **Bias Mitigation** 분야를 연구하고 있습니다. 최신 AI 연구와 견고한 엔지니어링 시스템 간의 간극을 좁히는 것에 관심이 많습니다.
 
-- [cite_start]🎓 **Lab:** Language Intelligence Lab (지도교수: 이환희) [cite: 4, 12]
-- [cite_start]🔭 **Interests:** LLM Jailbreaking, Robustness, Hallucination, Automated Security [cite: 12]
-- [cite_start]📧 **Contact:** kimym7801@cau.ac.kr [cite: 1, 10]
+- 🎓 **Lab:** Language Intelligence Lab (지도교수: 이환희)
+- 🔭 **Interests:** LLM Jailbreaking, Robustness, Hallucination, Automated Security
+- 📧 **Contact:** kimym7801@cau.ac.kr
 - 🔗 **Links:** [Google Scholar](YOUR_SCHOLAR_LINK) | [LinkedIn](YOUR_LINKEDIN_LINK)
 
 ---
@@ -35,15 +35,15 @@
 
 ## 📚 Selected Publications
 
-* **[EMNLP 2025] Keep Security! [cite_start]Benchmarking Security Policy Preservation in LLM Contexts Against Indirect Attacks** [cite: 6, 12]
+* **[EMNLP 2025] Keep Security! Benchmarking Security Policy Preservation in LLM Contexts Against Indirect Attacks**
     * *Yumin Kim\*, Hwan Chang\*, YongHyeon Jun, Hwanhee Lee*
     * 간접적인 프롬프트 주입 공격(Indirect Prompt Injection) 상황에서 LLM이 보안 정책을 얼마나 잘 준수하는지 평가하는 벤치마크를 제안했습니다.
 
-* [cite_start]**[COLING 2024] KoCoSa: Korean Context-aware Sarcasm Detection Dataset** [cite: 6, 12]
+* **[COLING 2024] KoCoSa: Korean Context-aware Sarcasm Detection Dataset**
     * *Yumin Kim, Heejae Suh\*, Mingi Kim, Dongyeon Won\*, Hwanhee Lee*
     * 한국어 문맥을 반영하여 반어법(Sarcasm)을 탐지할 수 있는 멀티모달 데이터셋을 구축했습니다.
 
-* [cite_start]**[Preprint] Selective Demonstration Retrieval for Improved Implicit Hate Speech Detection** [cite: 7, 12]
+* **[Preprint] Selective Demonstration Retrieval for Improved Implicit Hate Speech Detection**
     * *Yumin Kim, Hwanhee Lee* (Under Review for LREC 2026)
 
 ---
@@ -80,26 +80,26 @@
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-[cite_start]![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) [cite: 7]
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **AI & Data Science**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-[cite_start]![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) [cite: 7]
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **Backend & DevOps**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-[cite_start]![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) [cite: 7]
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
 ### 🏆 Awards & Honors
-* [cite_start]**LG AI Research Hackathon:** 13위 (스마트 팩토리 이상 탐지 알고리즘 최적화) [cite: 5, 15]
-* [cite_start]**인문100년장학금:** 한국장학재단 (2년 전액 등록금 지원) [cite: 2, 13]
-* [cite_start]**중앙대학교 입학장학금:** 특성화학과 수석/우수 입학 (2년 전액 등록금 지원) [cite: 2, 13]
+* **LG AI Research Hackathon:** 13위 (스마트 팩토리 이상 탐지 알고리즘 최적화)
+* **인문100년장학금:** 한국장학재단 (2년 전액 등록금 지원)
+* **중앙대학교 입학장학금:** 특성화학과 우수 입학 (2년 전액 등록금 지원)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yu-billie&show_icons=true&theme=minimal" alt="Yumin's GitHub Stats" />
