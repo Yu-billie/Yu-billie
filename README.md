@@ -8,7 +8,3 @@
 - 👯 I’m always looking to collaborate on AI/Data Science projects.
      - [Work Mail] kimym7801@cau.ac.kr
      - [Gmail] alfhsenglishkimyumin@gmail.com
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-billie)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-billie&langs_count=10&layout=compact)]()
