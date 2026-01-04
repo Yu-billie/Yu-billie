@@ -1,4 +1,4 @@
-<p align="right"><em>Latest Update: 2026.01.02</em></p>
+<p align="right"><em>Latest Update: 2026.01.04</em></p>
 
 # 👋 Hi there, I'm Yumin!
 
