@@ -95,7 +95,7 @@
 ### 📊 Data Science (for Manufacturing Industry)
 | 프로젝트 | 설명 | 기술 스택 |
 | :--- | :--- | :--- |
-| **Smart Factory Anomaly Detection** | **[LG AI Research 해커톤]** 제조 공정 로그 데이터를 활용한 이상 탐지(Anomaly Detection) 모델 개발 및 불량률 최소화를 위한 데이터 분석 (Top 13/495). | `Python` `SQL` `Scikit-learn` |
+| **Smart Factory Anomaly Detection** | **[LG AI Research 해커톤 LG Aimers]** 제조 공정 로그 데이터를 활용한 이상 탐지(Anomaly Detection) 모델 개발 및 불량률 최소화를 위한 데이터 분석 (Top 13/495). | `Python` `SQL` `Scikit-learn` |
 
 ### 💰 Data Analysis (for Investment/Quant)
 | 프로젝트 | 설명 | 기술 스택 |
