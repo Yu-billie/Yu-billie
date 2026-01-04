@@ -8,7 +8,7 @@
    - [Google Scholar](https://scholar.google.com/citations?user=9Jan_XgAAAAJ&hl=en)
    - [CV](https://drive.google.com/file/d/1vwYqIQxdkJiCMQsoajYYPqHK0ZjMDEoK/view?usp=drive_link)
 
- 👯 I’m always looking to collaborate on AI/Data Science projects (**Anywhere on Earth!!**).
+ 👯 I’m always looking to collaborate on AI/Data Science projects (🤗**Anywhere on Earth!!**).
  
    - [Work Mail] kimym7801@cau.ac.kr
    - [Gmail] alfhsenglishkimyumin@gmail.com
