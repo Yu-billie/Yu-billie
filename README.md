@@ -13,6 +13,8 @@
    - [Gmail] alfhsenglishkimyumin@gmail.com
 
 ---
+<p align="right"><em>Korean version</em></p>
+
 
 # 👋 안녕하세요, 김유민 (Billie, 金侑珉)입니다!
 
