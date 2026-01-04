@@ -60,7 +60,7 @@
 ## 📚 Selected Publications
 
 * **[EMNLP 2025 Main] Keep Security! Benchmarking Security Policy Preservation in LLM Contexts Against Indirect Attacks**
-    * ***Yumin Kim**, Hwan Chang\*, YongHyeon Jun, Hwanhee Lee*
+    * ***Yumin Kim\***, Hwan Chang\*, YongHyeon Jun, Hwanhee Lee*
     * 간접적인 프롬프트 주입 공격(Indirect Prompt Injection) 상황에서 LLM이 보안 정책을 얼마나 잘 준수하는지 평가하는 벤치마크를 제안했습니다.
 
 * **[EACL 2026 Main] Personality Editing for Language Models through Relevant Knowledge Editing**
@@ -68,7 +68,7 @@
     * 심리학적 설문을 자아 참조(Self-referential) 지식으로 변환하고, 지식 편집(Knowledge Editing) 기법을 활용하여 단 12개의 쿼리만으로도 LLM의 성격을 효율적이고 견고하게 제어하는 PALETTE 프레임워크를 제안했습니다.
 
 * **[COLING 2024] KoCoSa: Korean Context-aware Sarcasm Detection Dataset**
-    * ***Yumin Kim**, Heejae Suh\*, Mingi Kim, Dongyeon Won\*, Hwanhee Lee*
+    * ***Yumin Kim\***, Heejae Suh\*, Mingi Kim, Dongyeon Won\*, Hwanhee Lee*
     * 한국어 문맥을 반영하여 반어법(Sarcasm)을 탐지할 수 있는 멀티모달 데이터셋을 구축했습니다.
 
 * **[Preprint] Selective Demonstration Retrieval for Improved Implicit Hate Speech Detection**
