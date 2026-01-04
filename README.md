@@ -6,7 +6,7 @@
  
    - [LinkedIn](https://www.linkedin.com/in/yumin-kim-05a371191/)
    - [Google Scholar](https://scholar.google.com/citations?user=9Jan_XgAAAAJ&hl=en)
-   - [CV](https://drive.google.com/file/d/1ecfh7v7ZkF589Jo_t6Veby_rdz8zHnNQ/view?usp=sharing)
+   - [CV](https://drive.google.com/file/d/1YUP4dcXFoO7KrbsEe4Z3mrfIITTREumv/view?usp=sharing)
 
  👯 I’m always looking to collaborate on AI/Data Science projects (🤗**Anywhere on Earth!!** 🤗).
  
@@ -25,8 +25,6 @@
 
 - 🎓 **Lab:** Language Intelligence Lab (지도교수: 이환희)
 - 🔭 **Interests:** LLM Jailbreaking, Robustness, Hallucination, Automated Security
-- 📧 **Contact:** kimym7801@cau.ac.kr
-- 🔗 **Links:** [Google Scholar](YOUR_SCHOLAR_LINK) | [LinkedIn](YOUR_LINKEDIN_LINK)
 
 ---
 
