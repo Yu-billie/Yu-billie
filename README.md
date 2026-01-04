@@ -69,7 +69,7 @@
 
 * **[COLING 2024] KoCoSa: Korean Context-aware Sarcasm Detection Dataset**
     * ***Yumin Kim\***, Heejae Suh\*, Mingi Kim, Dongyeon Won\*, Hwanhee Lee*
-    * 한국어 문맥을 반영하여 반어법(Sarcasm)을 탐지할 수 있는 멀티모달 데이터셋을 구축했습니다.
+    * 한국어 문맥을 반영하여 반어법(Sarcasm)을 탐지할 수 있는 대화형 데이터셋을 구축했습니다.
 
 * **[Preprint] Selective Demonstration Retrieval for Improved Implicit Hate Speech Detection**
     * ***Yumin Kim**, Hwanhee Lee* (Under Review for LREC 2026)
