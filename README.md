@@ -6,7 +6,9 @@
  
    - [LinkedIn](https://www.linkedin.com/in/yumin-kim-05a371191/)
    - [Google Scholar](https://scholar.google.com/citations?user=9Jan_XgAAAAJ&hl=en)
+   - [Google Developers](https://g.dev/yuminkim)
    - [CV](https://drive.google.com/file/d/1YUP4dcXFoO7KrbsEe4Z3mrfIITTREumv/view?usp=sharing)
+   - [Official Transcript](https://drive.google.com/file/d/1lxUKbbI9l5t27EU4BxfEGjEXf3EHxGwi/view?usp=sharing)
 
  👯 I’m always looking to collaborate on AI/Data Science projects (🤗**Anywhere on Earth!!** 🤗).
  
